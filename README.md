@@ -1,2 +1,2 @@
-# Teor-a-Sistemas_Operativos
+# Teoria-Sistemas_Operativos
 Transparencias y Problemas de Sistemas Operativos
